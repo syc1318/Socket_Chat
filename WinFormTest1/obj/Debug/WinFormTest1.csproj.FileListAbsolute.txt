@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\bin\Debug\WinFormTest1.exe.config
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\bin\Debug\WinFormTest1.exe
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\bin\Debug\WinFormTest1.pdb
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.ChattingRoom.resources
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.MkGroupName.resources
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.GroupList.resources
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.LoginID.resources
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.Login_1.resources
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.Properties.Resources.resources
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.exe
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.pdb
+C:\Users\User\source\repos\WinFormTest1\WinFormTest1\obj\Debug\WinFormTest1.csprojAssemblyReference.cache
